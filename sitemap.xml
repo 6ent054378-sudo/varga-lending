@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://vargaai.ru/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://vargaai.ru/img/og.png</image:loc>
+      <image:title>Varga AI: дашборд продавца</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://vargaai.ru/video/varga_landing_cover.jpg</video:thumbnail_loc>
+      <video:title>Как работает Varga AI: единый кабинет для продавцов на 6 площадках</video:title>
+      <video:description>75 секунд: деньги после комиссий, юнит-экономика, холд, чаты и споры, автовыдача от поставщиков, свой склад кодов и оценка ниши.</video:description>
+      <video:content_loc>https://vargaai.ru/video/varga_landing_main_1080p.mp4</video:content_loc>
+      <video:duration>64</video:duration>
+      <video:publication_date>2026-10-09</video:publication_date>
+    </video:video>
   </url>
 </urlset>
